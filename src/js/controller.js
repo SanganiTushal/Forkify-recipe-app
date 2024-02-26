@@ -112,11 +112,4 @@ const init = function () {
 
 init();
 
-// For getting Video Data -  https://www.googleapis.com/youtube/v3/search?key={your_key_here}&channelId={channel_id_here}&part=snippet,id&order=date&maxResults=20
-// For getting channel data - https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics&id={channel_id_here}&key=[API_KEY]
-// Channel ID - UCauZxHqwMe5nkFm3wSOg_Yw
-// API Key - AIzaSyCPTeeW_YUBhrKMeXgysmPW25eO0AKhOiI
 
-// Specific Video - http://www.youtube.com/watch?v={video_id_here}
-// Instagram - http://www.instagram.com/tushal_ni_rasoi?igsh=MWNxaDNyYXI2cDV6eQ==
-// Facebook - http://www.facebook.com/profile.php?id=61554226090826
